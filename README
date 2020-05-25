@@ -1,0 +1,19 @@
+* firebase => npm install --save firebase
+
+* styled-components => npm install styled-components
+
+* async-storage => npm install @react-native-community/async-storage
+
+* react-navigation:{
+    primeiro => npm install @react-navigation/native
+    segundo => npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+    terceiro => npm install @react-navigation/stack
+    quarto => npm install @react-navigation/drawer
+}
+
+* statusbar => npm install --save react-native-status-bar-height
+
+* vector-icon: {
+    primeiro => npm install react-native-vector-icons
+    segundo => npx react-native link react-native-vector-icons
+}
